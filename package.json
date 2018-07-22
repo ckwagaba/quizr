@@ -1,0 +1,9 @@
+{
+  "name": "quizr",
+  "version": "1.0.0",
+  "description": "Quiz Buzzer",
+  "main": "index.js",
+  "author": "C.K. Wagaba <ckwagaba@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/ckwagaba/quizr.git"
+}
